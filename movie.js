@@ -1,4 +1,4 @@
-const APIKEY = "12f18af4cadae1aa07314412d8cf9098";
+const APIKEY = "Your APIKEY";
 const IMAGE_URL = "https://image.tmdb.org/t/p/w500/";
 
 const options = {
